@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.card {
+  width: 380px;
+  border-radius: 12px;
+}
+
+small {
+  color: red;
+}
+
+.progress {
+  height: 6px;
+}
+
+.progress-bar {
+  width: 0%;
+  background: linear-gradient(90deg, #00f2fe, #4facfe);
+}
